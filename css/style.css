@@ -1,0 +1,77 @@
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Neucha', cursive;
+}
+/*slideshow*/
+.mySlides {display: none;}
+
+/* full-screen image*/
+body, html {
+    height: 100%;
+  }
+  
+  .fs {
+
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.img-2 {
+    /*Image Used*/
+    background-image: url(../img/blue-ocean-under-white-clouds-1093025.jpg);
+}
+.img-3 {
+    /*Image Used*/
+    background-image: url(../img/scenic-view-of-ocean-during-dusk-1817048.jpg);
+}
+
+.img-4 {
+    /*Image Used*/
+    background-image: url(../img/beach-buildings-city-clouds-412681.jpg);
+}
+
+.img-5 {
+    /*Image Used*/
+    background-image: url(../img/seaside-994605\ \(1\).jpg);
+}
+.img-6 {
+    /*Image Used*/
+    background-image: url(../img/green-car-near-seashore-with-blue-ocean-1118448.jpg);
+}
+
+.fs-video {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+audio {
+    display: block;
+    width: 230px;
+    height: 30px;
+
+}
+
+figcaption {
+    font-size: 8px;
+}
+
+
+
+
+  
+
+
+
